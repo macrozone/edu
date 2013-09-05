@@ -1,6 +1,6 @@
 
 
-# FORKED IT!!!!! #
+# FORKED by macrozone !!!!! #
 
 blogtestapp
 cintro        Some basic examples in C
